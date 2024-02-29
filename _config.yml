@@ -9,7 +9,7 @@
 title                    : "Chenqiang Gao"
 description              : "Professor at Sun Yat-sen University, Shenzhen Campus. Specializes in multimedia event detection, surveillance event detection, and intelligent multimedia research."
 repository               : "LinyuJupiter/gaocq-homepage"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
